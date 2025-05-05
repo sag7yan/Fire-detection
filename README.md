@@ -1,2 +1,2 @@
-# Fire-detection
-alarm when fire detected
+# spamdetection
+notify spam  
